@@ -25,12 +25,12 @@ This might be made by ChatGPT 'Execute **CLEAN** 360-degree backflips'
 
 ### Setup Steps
 1. Navigate to the Releases page.
-2. Download the latest `BackflipMod.dll`.
+2. Download the latest `Backflip&FrontflipMod.zip`.
 3. Open your Gorilla Tag game directory (typically `Steam\steamapps\common\Gorilla Tag`).
-4. Move the downloaded `.dll` file into your `BepInEx/plugins/` folder.
+4. Extract the `.zip` file into your `BepInEx/plugins/` folder.
 5. Launch the game and Backflip and Frontflip away!
 
-** Disclaimer **: This is an addon for GorillaBody, you need GorillaBody to run this!
+**Disclaimer**: This is an addon for GorillaBody, you need GorillaBody to run this!
 
 ---
 
