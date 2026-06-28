@@ -2,6 +2,9 @@
 
 🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒
 
+![Downloads](https://img.shields.io/github/downloads/NotZeri/Gorilla-Tag-Backflip-Mod/total?color=green)
+![Static Badge](https://img.shields.io/badge/verson-1.0.0-blue?label=verson) ![Unity](https://img.shields.io/badge/Unity-2022_Mono-orange) ![BepInEx](https://img.shields.io/badge/BepInEx-5.4-green)
+
 **ChatGPT** gulp
 
 A physics-based server-side mod for Gorilla Tag that allows players to perform smooth, momentum-based 360 backflips at the press of a button. Perfect for trick shots, styling on friends, and escaping taggers.
