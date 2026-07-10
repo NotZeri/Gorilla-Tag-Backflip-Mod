@@ -13,7 +13,8 @@ A physics-based server-side mod for Gorilla Tag that allows players to perform s
 
 ## 🚀 Features
 
-This might be made by ChatGPT 'Execute **CLEAN** 360-degree backflips'
+This might be made by ChatGPT: 'Execute **CLEAN** 360-degree backflips'
+THE WORDS, NOT THE MOD, THE SENTENCES WERE MADE BY CHATGPT OH MY LORD PEOPLE ARE SO STUPID
 
 * **One-Button Flips:** Execute clean 360-degree backflips mid-air seamlessly.
 * **Velocity-Based Physics:** Flip rotation scales dynamically with your jumping momentum.
@@ -33,7 +34,6 @@ This might be made by ChatGPT 'Execute **CLEAN** 360-degree backflips'
 4. Extract the `.zip` file into your `BepInEx/plugins/` folder.
 5. Launch the game and Backflip and Frontflip away!
 
-**Disclaimer**: This is an addon for GorillaBody, you need GorillaBody to run this!
 
 ---
 
