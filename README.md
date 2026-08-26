@@ -1,5 +1,7 @@
 # 🐒 Gorilla Tag Backflip Mod( and Frontflip )
 
+Join the Discord for the mod!!
+
 🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒
 
 ![Downloads](https://img.shields.io/github/downloads/NotZeri/Gorilla-Tag-Backflip-Mod/total?color=green)
