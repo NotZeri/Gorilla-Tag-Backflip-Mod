@@ -2,6 +2,8 @@
 
 Join the Discord for the mod!!
 
+# [JOIN DISCORD PRESS ME!](https://discord.gg/VvxgAVeBTB)
+
 🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒
 
 ![Downloads](https://img.shields.io/github/downloads/NotZeri/Gorilla-Tag-Backflip-Mod/total?color=green)
